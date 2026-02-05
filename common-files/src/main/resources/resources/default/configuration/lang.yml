@@ -119,7 +119,7 @@ lang#items:
     item.default.drill: 钻头
   fr_fr:
     item.default.chinese_lantern: Lanterne Chinoise
-    item.default.fairy_flower: Fleur Fée
+    item.default.fairy_flower: Fleur Féerique
     item.default.reed: Roseau
     item.default.flame_cane: Canne de Flamme
     item.default.ender_pearl_flower_seeds: Graines de Fleur de Perle du Néant
@@ -174,7 +174,7 @@ lang#items:
     item.default.hami_melon_seeds: Graines de Melon de Hami
     item.default.magma_fruit: Fruit de Magma
     item.default.globe: Globe
-    item.default.drill: La perceuse
+    item.default.drill: Perceuse
 # Providing translations for blocks is particularly effective for plugins that retrieve server-side block translation keys.
 lang#blocks:
   en_us:
